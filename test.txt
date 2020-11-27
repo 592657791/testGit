@@ -6,3 +6,8 @@ slave
 slave
 slave
 slave
+
+master
+master
+master
+master
